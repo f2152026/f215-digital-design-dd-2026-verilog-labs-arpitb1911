@@ -33,7 +33,7 @@ module tb;
     #5 t_a = 1; t_b = 0; t_cin = 1;
     #5 t_a = 1; t_b = 1; t_cin = 0;
     #5 t_a = 1; t_b = 1; t_cin = 1;
-    #5 $finish;
+    #5 $finish; 
   end
 
   initial
